@@ -1,0 +1,7 @@
+tensorflow
+numpy
+wheel
+packaging
+requests
+opt_einsum
+keras_preprocessing
